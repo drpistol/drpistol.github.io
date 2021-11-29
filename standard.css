@@ -1,0 +1,27 @@
+html {
+	/* Setting a base font size for easier rem calculations*/
+	font-size: 10px;
+}
+
+body {
+	background-color: #81c1a5;
+	font-family: "Spectral", serif;
+	line-height: 1.5;
+	text-align: center;
+}
+
+h3 {
+	font-size: 2rem;
+	font-weight: 400;
+}
+
+#avatar {
+	max-width: 50%;
+	border-radius: 50%;
+	height: auto;
+	margin: 0 auto;
+}
+
+#notice {
+	font-weight: 1,400;
+}
